@@ -1,0 +1,10 @@
+# Ignore compiled binaries / executable files
+*.out
+*.exe
+*.o
+
+# Ignore VS Code internal settings
+.vscode/
+
+# Ignore OS junk files
+.DS_Store

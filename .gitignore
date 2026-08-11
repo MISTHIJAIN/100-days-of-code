@@ -8,3 +8,6 @@
 
 # Ignore OS junk files
 .DS_Store
+# Ignore Linux/WSL compiled binary files (files without extension)
+day*
+!day*.c
